@@ -1,0 +1,19 @@
+@import url('../blocks/cards-container.css');
+@import url('../blocks/button.css');
+@import url('../blocks/card.css');
+@import url('../blocks/basket.css');
+@import url('../blocks/price.css');
+@import url('../blocks/selector.css');
+@import url('../blocks/filter.css');
+
+body {
+  background-color: #dfeaf0;
+  padding: 70px;
+}
+
+.content {
+  max-width: 1570px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}

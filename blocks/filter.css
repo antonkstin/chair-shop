@@ -1,0 +1,11 @@
+.filter {
+  width: 200px;
+  position: absolute;
+  top: 0;
+  left: 50vw;
+  margin-left: -100px;
+  background-color: transparent;
+  outline: none;
+  font-family: sans-serif;
+  font-size: 12px;
+}
